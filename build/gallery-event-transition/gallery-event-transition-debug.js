@@ -78,4 +78,4 @@ Y.Event.define('transitionend', {
 });
 
 
-}, '@VERSION@' ,{requires:['event-synthetic']});
+}, 'gallery-2011.12.14-21-12' ,{requires:['event-synthetic']});
